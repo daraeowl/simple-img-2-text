@@ -1,0 +1,18 @@
+Requisitos del Proyecto
+1. Monitoreo de Condiciones Ambientales:
+o Utilizar un sensor NTC u otro sensor de temperatura, para medir la
+temperatura interior y un sensor LDR para medir la luz.
+o Implementar un sistema de alerta con un LEDs cuando la
+temperatura o la luz esté fuera del rango aceptable.
+2. Control de iluminación interior y exterior:
+o Utilizar un sensor de presencia PIR para determinar si las luces se
+deben encender o no cuando se cumplan las condiciones.
+o Incorporar un segundo sensor LDR para medir la luminosidad
+exterior y permitir la apertura y/o cierre de cortinas.
+3. Control de Acceso Automático:
+o Implementar un servomotor para abrir y cerrar la puerta basado en
+la proximidad detectada por un sensor ultrasónico.
+4. Integración del Sistema:
+o Asegurar que ambos sistemas funcionen en conjunto, permitiendo
+que la habitación mantenga condiciones adecuadas y controle el
+acceso de forma automática.

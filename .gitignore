@@ -1,0 +1,10 @@
+# Ignore output directories
+extracted_text/
+debug_images/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
